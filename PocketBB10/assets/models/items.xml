@@ -1,0 +1,9 @@
+<root>
+	<header title="Your Last Articles" subtitle="test" status="Blabla"/>
+	<listItem title="Oranges" subtitle="test" status="ok"/> 
+	<listItem title="Apples" subtitle="test" status="ok"/>
+	<listItem title="Bananas" subtitle="test" status="ok"/>	
+	<listItem title="Broccoli" subtitle="test" status="ok"/> 
+	<listItem title="Carrots" subtitle="test" status="ok"/>
+	<listItem title="Corn" subtitle="test" status="ok"/>	
+</root>
