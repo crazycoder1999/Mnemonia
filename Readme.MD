@@ -1,10 +1,14 @@
 
 #Before use the Code:
-Mnemonia is an application for BlackBerry10: a client for Pocket/ReadItLater service. 
+Mnemonia is an application for BlackBerry10: a client for Pocket/ReadItLater service.
+
 I started this app more than 3 years ago, to learn how to develop native QML/C++ app for BB10.
+
 When I started this application I missed a pocket/readitlater app.. so I built one :)
+
 It was a sideproject made for fun and make practice with the platform
-Read the disclaimer: it is important!
+
+**Read the disclaimer: it is important!**
 
 #Disclaimer: 
 - The code has never been refactored 
@@ -24,13 +28,17 @@ Read the disclaimer: it is important!
 #In order to use the code and build a working app:
 - search and change CONSUMER_KEY value, with a valid value: one you can create from the developer page of pocket (in BlackSound.cpp is 12345678901234567890 right now)
 - change the url for the AUTH in the requests  (search http://www.yourwebpagetoconfirmisok.com/ok.html in BlackSound.cpp) and use the same url on pocket
-OR: simply search for the CHANGE HERE string in BlackSound.cpp
+
+**OR**: simply search for the **CHANGE HERE** string in BlackSound.cpp
 
 #Thanks to:
 - BlackBerry: for the effort to developers, it was incredible at the launch of BB10! 
 - Thanks to BlackBerry10 engineers for the awesome operating system they have created: I'm addicted. A really good system: fast and reliable. I'm definetly an happy user and I understand the new android choice... but I'm still a lover of BB10 :)
-- The BlackBerry developer community!
+- The BlackBerry Developer Community!
 
 #Contacts
-If you are planning to use the code or port it on other platform, please let me know! I'm a curious person
-You can find me on twitter at @dega1999
+If you are planning to use the code or port it on other platform, please let me know! 
+
+I'm a curious person
+
+You can find me on twitter at **@dega1999**
